@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CSCI271\\x64\\Debug\\lab10_jonathan.obj",
+            "outputs": [
+                "CSCI271\\x64\\Debug\\lab10_jonathan.cpp.obj.dt.module.json",
+                "CSCI271\\x64\\Debug\\lab10_jonathan.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
